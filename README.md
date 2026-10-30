@@ -1,6 +1,4 @@
-### 🎨 Repositori: `tajjudin-achmad-portfolio` (PortoTajjudinAchmad)
-
-# 💼 Tajjudin Achmad - Personal Portfolio Web
+💼 Tajjudin Achmad - Personal Portfolio Web
 
 > Website portofolio interaktif dan responsif untuk menampilkan profil profesional, rekam jejak proyek, serta keahlian Tajjudin Achmad.
 
